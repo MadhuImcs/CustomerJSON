@@ -1,0 +1,30 @@
+{
+  "customerName" : "Madhu",
+  "customerId" : 101,
+  "dataOfBirth" : 61558635600000,
+  "anualSalary" : 10000.0,
+  "address" : [ {
+    "street" : "love dr",
+    "city" : "irving",
+    "state" : "texas",
+    "zipcode" : 20101
+  }, {
+    "street" : "royal ln",
+    "city" : "dallas",
+    "state" : "texas",
+    "zipcode" : 62627
+  } ],
+  "paymentMethods" : [ {
+    "cardNumber" : 20101,
+    "cardName" : "MADHU",
+    "dateFrom" : 61558635600000,
+    "dateType" : "EXP",
+    "cardType" : "DEBITCARD"
+  }, {
+    "cardNumber" : 28328,
+    "cardName" : "KIRAN",
+    "dateFrom" : 61558635600000,
+    "dateType" : "EXP",
+    "cardType" : "CREDITCARD"
+  } ]
+}
